@@ -497,7 +497,7 @@ ne-NP:
 # Korean
 # --------------
 ko: &DEFAULT_KO
-page                       : "Page"
+  page                       : "Page"
   pagination_previous        : "Previous"
   pagination_next            : "Next"
   breadcrumb_home_label      : "Home"
