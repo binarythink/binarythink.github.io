@@ -8,7 +8,7 @@
 minimal_mistakes_skin    :  "pink" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en"
 title                    : "일용직 개발자"
 title_img                : "/assets/images/common/logo.png"
 title_separator          : "-"
@@ -86,7 +86,7 @@ author:
   name             : "일용직개발자"
   avatar           : "/assets/images/common/author-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "40년 개발일을 더 하여도 제 머리숱은 여전히 풍성할 것이기에 제 천직은 개발자입니다."
-  location         : "Seoul, Republic of Korea"
+  location         : "Seoul, ROK"
   email            :
   uri              :
   bitbucket        :
