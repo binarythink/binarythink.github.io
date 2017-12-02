@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /about
 title: "About"
 excerpt: "일용직 개발자를 소개합니다."
