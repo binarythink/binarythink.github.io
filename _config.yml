@@ -8,7 +8,7 @@
 minimal_mistakes_skin    :  "pink" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en"
+locale                   : "ko"
 title                    : "일용직 개발자"
 title_img                : "/assets/images/common/logo.png"
 title_separator          : "-"
