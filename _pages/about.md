@@ -1,9 +1,7 @@
 ---
 permalink: /about
-title: "About: "
+title: "About"
 excerpt: "일용직 개발자를 소개합니다."
-header:
-  overlay_color: "#333"
 ---
 
 김용직(KIM YONG JIK)
