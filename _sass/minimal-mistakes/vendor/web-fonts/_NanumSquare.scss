@@ -1,0 +1,10 @@
+/* FONT PATH
+ * -------------------------- */
+
+@font-face {
+  font-family: 'NanumSquare';
+  src: url('#{$fa-font-path}/NanumSquare.eot');
+  src: url('#{$fa-font-path}/NanumSquare.eot?#iefix') format('embedded-opentype'),
+       url('#{$fa-font-path}/NanumSquare.woff') format('woff'),
+       url('#{$fa-font-path}/NanumSquare.ttf') format('truetype');
+}
