@@ -1,6 +1,6 @@
 # Authors
 
-kindler:
+binarythink:
   name        : "김용직(KIM YONG JIK)"
   uri         : "http://blog.kindler.io"
   email       : "heart.kindler@gmail.com"
@@ -8,7 +8,7 @@ kindler:
   avatar      : "/assets/images/common/author-photo.jpg"
   twitter     : "kindler_io"
 
-"Cornelius Fiddlebone":
+Cornelius Fiddlebone:
   name        : "Cornelius Fiddlebone"
   email       : "cornelius@thewhip.com"
   bio         : "I ordered what?"
