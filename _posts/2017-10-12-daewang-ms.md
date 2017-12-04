@@ -1,7 +1,7 @@
 ---
 permalink: /daewang-ms
 title: "2017 대왕중 코딩 교육 동아리 활동"
-excerpt: "대왕중학교에서 코딩 교육 동아리 활동에 대한 개인적인 후기와 수업자료"
+excerpt: "대왕중학교에서 코딩 교육 동아리 활동에 대한 개인적인 후기와 수업자료, 만족도 평가지와 평가결과를 공개합니다."
 categories:
   - diary
 tags: 
