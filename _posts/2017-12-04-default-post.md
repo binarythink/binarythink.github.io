@@ -80,6 +80,24 @@ toc : true
 [my repository](http://github.com/binarythink)
 
 
+### 각주
+
+김용직[^yongjik]은 개발자입니다.
+
+[^yongjik]: 글쓴이
+
+
+
+### Syntax Highlighting
+
+```java
+class Test {
+    public static void main(String[] args) {
+        System.out.println("Hello World!!");
+    }
+}
+```
+
 ## 문서 기본 설정
 
 ```yaml
@@ -94,13 +112,3 @@ header:
   cta_url: "https://unsplash.com"
 toc : true
 ``` 
-
-## Syntax Highlighting
-
-```java
-class Test {
-    public static void main(String[] args) {
-        System.out.println("Hello World!!");
-    }
-}
-```
