@@ -9,6 +9,11 @@ header:
   overlay_filter: 0.5
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   #cta_url: "https://unsplash.com"
+categories:
+  - Markup
+tags: 
+  - some tag
+  - test
 toc : true
 ---
 
