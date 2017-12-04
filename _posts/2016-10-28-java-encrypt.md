@@ -4,7 +4,7 @@ title: "개인정보 보호법과 JAVA를 이용한 암호화 구현(SHA256, AES
 excerpt: "JAVA를 이용한 단방향/양방향 암호화 방법(AES256, SHA256)"
 header:
   #image: /assets/images/common/teaser.jpg
-  og_image: /assets/images/content/2016/10/28/java-encrypt/teaser.png
+  og_image: /assets/images/content/2016/10/28/java-encrypt/teaser.jpg
   overlay_image: /assets/images/content/2016/10/28/java-encrypt/teaser.jpg
   overlay_filter: 0.5
 categories:
