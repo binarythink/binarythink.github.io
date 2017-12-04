@@ -17,7 +17,7 @@ description              : "Life isn't about waiting for the storm to pass, It's
 url                      : "https://binarythink.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/common/teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "holder.js/500x300" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -251,3 +251,6 @@ defaults:
       comments: true
       share: true
       related: true
+
+head_scripts:
+  - https://cdn.rawgit.com/imsky/holder/master/holder.js
