@@ -2,7 +2,6 @@
 permalink: /default-post
 title: "기본적인 포스팅 형식"
 excerpt: "컨텐츠의 일관성을 유지하기 위해 기본이 되는 포스팅 형식을 추가합니다."
-author: Cornelius Fiddlebone
 header:
   #image: /assets/images/common/teaser.jpg
   og_image: /assets/images/common/teaser.jpg
