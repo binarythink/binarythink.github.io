@@ -1,0 +1,17 @@
+# Authors
+
+KYJ:
+  name        : "김용직(KIM YONG JIK)"
+  uri         : "http://blog.kindler.io"
+  email       : "heart.kindler@gmail.com"
+  bio         : "40년 개발일을 더 하여도 제 머리숱은 여전히 풍성할 것이기에 제 천직은 개발자입니다."
+  avatar      : "/assets/images/common/author-photo.jpg"
+  twitter     : "kindler_io"
+
+Cornelius Fiddlebone:
+  name        : "Cornelius Fiddlebone"
+  email       : "cornelius@thewhip.com"
+  bio         : "I ordered what?"
+  avatar      : "/assets/images/bio-photo.jpg"
+  twitter     : "rhymeswithsackit"
+  google_plus : "CorneliusFiddlebone"
