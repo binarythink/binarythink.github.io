@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/content/2016/10/28/java-encrypt/teaser.png
   overlay_filter: 0.5
   cta_url: "https://github.com/binarythink/encryption"
-  cta_label: "Repository : `github.com/binarythink/encryption`"
+  cta_label: "Go Repository"
 categories:
   - java
 tags: 
