@@ -503,7 +503,7 @@ ko: &DEFAULT_KO
   breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
   menu_label                 : "Toggle Menu"
-  toc_label                  : "On This Page"
+  toc_label                  : "목차"
   ext_link_label             : "Direct Link"
   less_than                  : "less than"
   minute_read                : "minute read"
