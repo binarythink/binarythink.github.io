@@ -40,6 +40,7 @@ toc : true
 ## 케이스 스터디
 
 공식 junit 팀의 juni4 레파지토리의 위키에서 파라미터화 테스트를 구현하는 방법은 총 2가지가 소개되고 있습니다.[^1]
+
 [^1]: [https://github.com/junit-team/junit4/wiki/parameterized-tests](https://github.com/junit-team/junit4/wiki/parameterized-tests)
 
 케이스 스터디에서는 간단하게 두 값을 더해 `expected` 값과 같은가를 비교하는 파라미터화 테스트를 하고 있으며, 위키에서 소개한 2가지 방법(생성자를 이용한 방법, `@Parameter` 주입을 이용한 방법)을 가지고 작성되었습니다.
@@ -162,7 +163,7 @@ public class ParameterizedTestCase2 {
 1. 컬렉션에 저장된 배열의 수 만큼 반복한다.
     1. `@Parameter(n)` 가 선언된 public 맴버변수를 찾아 배열의 원소에 n 번째 값을 주입한다.
     1. `@test` 메서드를 호출한다.
-    
+
 
 ## 참고자료
 * [https://github.com/junit-team/junit4/wiki/parameterized-tests](https://github.com/junit-team/junit4/wiki/parameterized-tests)
