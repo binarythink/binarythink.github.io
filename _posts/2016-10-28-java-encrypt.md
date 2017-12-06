@@ -3,7 +3,7 @@ permalink: /java-encrypt
 title: "개인정보보호법과 JAVA를 이용한 암호화 구현(SHA256, AES256)"
 excerpt: "개인정보보호법의 내용을 이해하고 단방향 양방향 알고리즘의 대표적인 암호화 알고리즘인 AES256과 SHA256을 JAVA로 어떻게 구현할 수 있는지 알아봅니다."
 header:
-  #image: /assets/images/common/teaser.jpg
+  teaser: /assets/images/content/2016/10/java-encrypt/teaser.png
   og_image: /assets/images/content/2016/10/java-encrypt/teaser.png
   overlay_image: /assets/images/content/2016/10/java-encrypt/teaser.png
   overlay_filter: 0.5

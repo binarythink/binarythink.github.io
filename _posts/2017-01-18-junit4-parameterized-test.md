@@ -3,7 +3,7 @@ permalink: /junit4-parameterized-test
 title: "junit4를 이용한 파라미터화 테스트"
 excerpt: "다수개의 파라미터를 사용하여 테스트를 여러 번 반복 실행하는 기능을 제공하는 `Parameterized` 러너를 사용하는 방법에 대해서 알아봅니다."
 header:
-  #image: /assets/images/common/teaser.jpg
+  teaser: /assets/images/content/2017/01/junit4-parameterized-test/teaser.png
   og_image: /assets/images/content/2017/01/junit4-parameterized-test/teaser.png
   overlay_image: /assets/images/content/2017/01/junit4-parameterized-test/teaser.png
   overlay_filter: 0.5
