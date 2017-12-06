@@ -165,6 +165,25 @@ public class ParameterizedTestCase2 {
     1. `@test` 메서드를 호출한다.
 
 
+## 추가해서...
+
+파라미터화 테스트를 사용하는 경우 테스트를 수행해보면 `@Parameters` 에서 반환하는 배열의 길이 만큼 인덱스가 발생하는 것을 알 수 있습니다. 
+이 부분을 좀 더 명시적으로 해주기 위해 아래와 같이 `@Parameters` 의 `name` 속성을 이용할 수 있습니다.
+
+```java
+@Parameters(name = "{index} => {1} + {2} = {0}")
+public static Collection<Object[]> getTestParameters() {
+    return Arrays.asList(new Object[][]{
+            {2, 1, 1},
+            {3, 2, 1},
+            {4, 3, 1}
+    });
+}
+```
+
+![parameters의 name 속성을 이용했을 때 junit 결과](/asset/2017/01/junit4-parameterized-test/parameters-with-name.png)
+
+
 ## 참고자료
 * [https://github.com/junit-team/junit4/wiki/parameterized-tests](https://github.com/junit-team/junit4/wiki/parameterized-tests)
 * 피터 타치브 외 .『JUnit in Action』. 인사이트, 2011.
