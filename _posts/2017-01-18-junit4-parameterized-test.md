@@ -15,6 +15,7 @@ tags:
   - 파라미터화테스트
   - Parameterized.class
 toc : true
+last_modified_at: 2017-12-06T03:57:00
 ---
 
 다양한 파라미터를 사용하여 테스트를 여러 번 반복 실행하는 기능을 제공하는 `Parameterized` 러너를 사용하는 방법에 대해서 알아봅니다.
@@ -181,7 +182,7 @@ public static Collection<Object[]> getTestParameters() {
 }
 ```
 
-![parameters의 name 속성을 이용했을 때 junit 결과](/asset/2017/01/junit4-parameterized-test/parameters-with-name.png)
+![parameters의 name 속성을 이용했을 때 junit 결과](/assets/images/content/2017/01/junit4-parameterized-test/parameters-with-name.png)
 
 
 ## 참고자료
