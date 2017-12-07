@@ -12,9 +12,9 @@ categories:
 tags: 
   - environment
   - centos
-  - mount
-  - nsf
-  - 파일서버
+  - kernel
+  - 커널
+  - 부트파티션 용량
 toc : true
 ---
 CentOS 의 커널 업데이트시 boot 용량이 충분하지 않을 경우, package-cleanup 명령을 이용해 이전 커널을 삭제하여 공간을 확보하는 방법에 대해 알아봅니다.
