@@ -78,7 +78,7 @@
   //text-shadow: 2px 2px 0.5em $primary-color;
 
   blockquote {
-    margin: 2em;
+    //margin: 2em;
     font-style: italic;
     padding: 0;
     border: 0;
@@ -86,6 +86,7 @@
   cite {
     text-shadow: 0 0;
     color: #bdbdbdbd;
+    font-weight: 300;
   }
 }
 
