@@ -23,7 +23,7 @@
           alt="">
       </div>
     {% endif %}
-    {% if include.type == "list" and post.tags contains "quote" %}
+    {% if post.tags contains "quote" %}
       <div class="archive__item-quote" itemprop="content">
         <a href="{{ post.url | absolute_url }}" rel="permalink">
           {{ post.content }}
