@@ -25,7 +25,7 @@
     {% endif %}
     {% if post.tags contains "quote" %}
       <div class="archive__item-quote" itemprop="content">
-        <a href="{{ post.link }}">
+        <a href="{{ post.url | absolute_url }}" rel="permalink">
           {{ post.content }}
         </a>
       </div>
