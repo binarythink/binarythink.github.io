@@ -71,6 +71,20 @@
   }
 }
 
+.archive__item-quote {
+  text-align: center;
+  border-top: 1px dashed #e2e2e2;
+  border-bottom: 1px dashed #e2e2e2;
+  text-shadow: 2px 2px 1em #ff3478;
+
+  quote {
+    margin: 2em;
+    font-style: italic;
+    padding: 0;
+    border: 0;
+  }
+}
+
 .archive__item:hover {
 
   .archive__item-teaser {
