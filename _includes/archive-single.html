@@ -24,7 +24,9 @@
       </div>
     {% endif %}
     {% if post.tags contains "quote" %}
-      {{ post.content }}
+      <div class="archive__item-quote" itemprop="content">
+        {{ post.content }}
+      </div>
     {% else %}
       <h2 class="archive__item-title" itemprop="headline">
         {% if post.link %}
