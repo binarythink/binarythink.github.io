@@ -1,10 +1,14 @@
 /* FONT PATH
  * -------------------------- */
 
-@font-face {
-  font-family: 'NanumSquare';
-  src: url('#{$fa-font-path}/NanumSquare.eot');
-  src: url('#{$fa-font-path}/NanumSquare.eot?#iefix') format('embedded-opentype'),
-       url('#{$fa-font-path}/NanumSquare.woff') format('woff'),
-       url('#{$fa-font-path}/NanumSquare.ttf') format('truetype');
-}
+@import url(https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css);
+
+/*
+ @font-face {
+   font-family: 'NanumSquare';
+   src: url('../fonts/NanumSquare.eot');
+   src: url('../fonts/NanumSquare.eot?#iefix') format('embedded-opentype'),
+   url('../fonts/NanumSquare.woff') format('woff'),
+   url('../fonts/NanumSquare.ttf') format('truetype');
+  }
+*/
