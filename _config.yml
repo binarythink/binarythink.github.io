@@ -52,6 +52,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
+search                   : # true, false (default)
 
 # SEO Related
 google_site_verification : "qkOoSarAem6vbLF_46D2snp6NfIPfXDTbVl5u97SnMk"
@@ -89,6 +90,7 @@ author:
   location         : "Seoul, ROK"
   email            :
   uri              :
+  home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
