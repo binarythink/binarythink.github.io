@@ -3,10 +3,11 @@ permalink: /slack-juggler
 title: "이제 Slack 에 비서(봇)를 고용하세요"
 excerpt: "새로 입사한 회사에서는 Slack이 매우 활성화 되어 있고, 성탄절 별다른 약속도 없는 나는 봇을 개발하기로 했다... slack-bot 개발기와 slack-juggler 소개"
 header:
-  teaser: /assets/images/content/2017/12/slack-juggler/slack.png
-  og_image: /assets/images/content/2017/12/slack-juggler/slack.png
-  overlay_image: /assets/images/content/2017/12/slack-juggler/slack.png
+  teaser: /assets/images/content/2017/12/slack-juggler/slackbot.jpg
+  og_image: /assets/images/content/2017/12/slack-juggler/slackbot.jpg
+  overlay_image: /assets/images/content/2017/12/slack-juggler/slackbot.jpg
   overlay_filter: 0.5
+  caption: "Photo credit: [**WIRED**](https://www.wired.com/2015/08/slack-overrun-bots-friendly-wonderful-bots/)"
   cta_url: "https://github.com/binarythink/slack-juggler"
   cta_label: "Go Repository"
 categories:
